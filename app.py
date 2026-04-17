@@ -8,7 +8,7 @@ from streamlit_js_eval import get_geolocation
 st.set_page_config(page_title="SOFAMEX Pro", page_icon="🏢")
 
 # CONFIGURACIÓN - PEGA TU URL AQUÍ
-URL_APPS_SCRIPT = "https://script.google.com/macros/s/AKfycby8PWA8e0q1UIeBRqofE-RArlphvyMVtb9a_Pk6g19-XNtAmyYra_ZSIYemRDIG7FHy/exec"
+URL_APPS_SCRIPT = "hhttps://script.google.com/macros/s/AKfycbxNb6p8L-atmqQ2t9uM3KEvIb5jZ0TQt98COTfrHCGo-_ujfImhMALdXl2a8x5Txk0q/exec"
 SHEET_ID = "1u304ePiJ50UsSBLEANdVZipPfgSQ0ukQCUSnGhZkqY0"
 URL_LECTURA = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet=Sucursales"
 
