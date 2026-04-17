@@ -8,8 +8,8 @@ from streamlit_js_eval import get_geolocation
 st.set_page_config(page_title="SOFAMEX Pro", page_icon="🏢")
 
 # CONFIGURACIÓN - PEGA TU URL AQUÍ
-URL_APPS_SCRIPT = "https://script.google.com/macros/s/AKfycby9MXTYgY3_T3KLj9hO6mxosulxL5osTCp02Owm57k2cc-NcMr_h9_cljhdO3Gnw3fh/exec"
-SHEET_ID = "1u304ePiJ50UsSBLEANdVZipPfgSQ0ukQCUSnGhZkqY0"
+URL_APPS_SCRIPT = "https://script.google.com/macros/s/AKfycbzJWfLCyGR91LCJmQI1eHFC2BBiHXUDcwDEmGlVSVIp6SEUn-76e2S7KwsIVLZBvTa4Vw/exec"
+SHEET_ID = "1hjnZ9H6Q-6-oOsblegb7GJY3nCuXtHmr0R5e5bCAucw"
 URL_LECTURA = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet=Sucursales"
 
 st.title("🏢 Registro de Asistencia SOFAMEX")
